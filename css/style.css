@@ -1,0 +1,10 @@
+body {
+  font-family: "Lato", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: linear-gradient(to right, white, white);
+  color: #000;
+  font-weight: bold;
+}
